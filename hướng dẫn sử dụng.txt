@@ -1,0 +1,11 @@
+1. Tạodata base với tên banking_project trên My SQL
+
+2. Mở project Banking web bằng IntelliJ và chạy cả 2 folder Banking web app và Banking web sevices (vì sevices là API sever, banking app dùng để tương tác nên phải chạy cả hai để web hoạt động được đầy đủ chức năng)
+
+3. Đăng nhập vào giao diện admin bằng các tài khoản đã được mã hoá mật khẩu sau:
+Mannger: lamhuy | lamhuy123
+	 tester | tester123
+       ngochieu | ngochieu 123
+
+Teller:   minhluan | minhluan123
+	 thienbinh | thienbinh123
